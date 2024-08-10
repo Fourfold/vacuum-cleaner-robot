@@ -1,0 +1,6 @@
+{
+  "package_name": "vacuum_cleaner_robot_custom_interfaces",
+  "non_idl_tuples": [
+    "/home/fourfold/dev/inmind sessions/inmind-session-12/vacuum-cleaner-robot/src/vacuum_cleaner_robot_custom_interfaces:srv/GetRepulsiveForce.srv"
+  ]
+}

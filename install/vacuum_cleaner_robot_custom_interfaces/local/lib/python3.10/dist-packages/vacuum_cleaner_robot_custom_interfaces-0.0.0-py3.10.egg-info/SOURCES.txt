@@ -1,0 +1,8 @@
+setup.py
+vacuum_cleaner_robot_custom_interfaces/__init__.py
+vacuum_cleaner_robot_custom_interfaces.egg-info/PKG-INFO
+vacuum_cleaner_robot_custom_interfaces.egg-info/SOURCES.txt
+vacuum_cleaner_robot_custom_interfaces.egg-info/dependency_links.txt
+vacuum_cleaner_robot_custom_interfaces.egg-info/top_level.txt
+vacuum_cleaner_robot_custom_interfaces/srv/__init__.py
+vacuum_cleaner_robot_custom_interfaces/srv/_get_repulsive_force.py

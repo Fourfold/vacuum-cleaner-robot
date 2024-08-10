@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/vacuum_cleaner_robot_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vacuum_cleaner_robot_custom_interfaces/srv/detail/get_repulsive_force__type_support.cpp.o"
+  "CMakeFiles/vacuum_cleaner_robot_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/vacuum_cleaner_robot_custom_interfaces/srv/detail/get_repulsive_force__type_support.cpp.o.d"
+  "libvacuum_cleaner_robot_custom_interfaces__rosidl_typesupport_introspection_cpp.pdb"
+  "libvacuum_cleaner_robot_custom_interfaces__rosidl_typesupport_introspection_cpp.so"
+  "rosidl_typesupport_introspection_cpp/vacuum_cleaner_robot_custom_interfaces/srv/detail/get_repulsive_force__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/vacuum_cleaner_robot_custom_interfaces/srv/detail/get_repulsive_force__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/vacuum_cleaner_robot_custom_interfaces__rosidl_typesupport_introspection_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

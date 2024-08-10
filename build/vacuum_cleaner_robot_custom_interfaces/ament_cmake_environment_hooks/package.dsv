@@ -1,0 +1,4 @@
+source;share/vacuum_cleaner_robot_custom_interfaces/local_setup.bash
+source;share/vacuum_cleaner_robot_custom_interfaces/local_setup.dsv
+source;share/vacuum_cleaner_robot_custom_interfaces/local_setup.sh
+source;share/vacuum_cleaner_robot_custom_interfaces/local_setup.zsh
